@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Joshil Vaddi, a Computer Engineering student at Georgia Tech!  
 
-<!--
-**jvaddi12/jvaddi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong interests in the intersection between Software and Hardware, such as embedded systems, distributed systems and cloud computing, and software development in areas of the web, artificial intelligence, and low-level system architecture. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C, C++, Python, Java, JavaScript  
+**Hardware/Tools:** SystemVerilog, FPGA (Basys 3, DE10-Lite), ModelSim, Quartus, Vivado  
+**Frameworks/Technologies:** Django, SQL, NumPy, HTML/CSS, RESTful APIs, Google Maps API, AWS Lambda, Docker, CI/CD  
+**Collaboration:** Agile/Scrum, Git, GitHub, Jira  
+**Special Interests:** Embedded Systems, Hardware-Software Integration, Digital Logic Design
+
+## Projects
+
+- LLM Custom Sandbox Webscraper
+- Community Event Platform
+- Verilog Controler
+
+  Currently working on low-level system projects, coding in C and C++. 
+
