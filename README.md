@@ -14,7 +14,7 @@ I have strong interests in the intersection between Software and Hardware, such 
 
 - LLM Custom Sandbox Webscraper
 - Community Event Platform
-- Verilog Controler
+- Verilog Controller
 
   Currently working on low-level system projects, coding in C and C++. 
 
